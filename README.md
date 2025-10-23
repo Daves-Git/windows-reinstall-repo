@@ -2,7 +2,7 @@
 
 A quick-access collection of trusted installers, drivers, and tools for setting up Windows after a fresh format.
 
-### 🌐 Click Here to Visit Repo
+### 🌐 Click Here to Visit Repository
 👉 https://Daves-Git.github.io/windows-reinstall-repo/
 
 ---
