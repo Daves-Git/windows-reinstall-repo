@@ -12,7 +12,7 @@ A quick-access collection of trusted installers, drivers, and tools for setting 
 - **Browsers:** Firefox, Chrome, Opera  
 - **Drivers:** ASRock A320M-DVS R3.0, AMD Ryzen Master, AMD Radeon Adrenaline, Steelseries Engine, Corsair iQue
 - **Games:** Steam, Epic Games, Battle.net, EA Games
-- **Comm's:** Discord, Microsoft Teams  
+- **Comm's:** Discord, Microsoft Teams, VoiceMod - Free Voice Changer
 - **Useful Software:** Visual Studio Code, Rufus, CPU-Z, WinRAR, Memtest86, Proton Free VPN  
 - **Security:** ShutUp10++, Malwarebytes, CCleaner, BleachBit, VeraCrypt  
 
