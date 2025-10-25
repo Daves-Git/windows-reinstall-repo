@@ -9,7 +9,7 @@ A quick-access collection of trusted installers, drivers, and tools for setting 
 
 ### 📂 Categories
 
-- **Browsers:** Firefox, Chrome, Opera  
+- **Browsers:** Firefox, Chrome, Opera, SearchDeflector
 - **Drivers:** ASRock A320M-DVS R3.0, AMD Ryzen Master, AMD Radeon Adrenaline, Steelseries Engine, Corsair iQue
 - **Games:** Steam, Epic Games, Battle.net, EA Games
 - **Files:** Google Drive, FileZilla
