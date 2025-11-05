@@ -10,7 +10,7 @@ A quick-access collection of trusted installers, drivers, and tools for setting 
 ### 📂 Categories
 
 - **Browsers:** Firefox, Chrome, Opera, SearchDeflector
-- **Drivers:** ASRock A320M-DVS R3.0, AMD Ryzen Master, AMD Radeon Adrenaline, Steelseries Engine, Corsair iQue
+- **Drivers:** ASRock A320M-DVS R3.0, AMD Ryzen Master, AMD Radeon Adrenaline, AMD Chipset, Steelseries Engine, Corsair iQue
 - **Programs** Blender, Krita, RawTherapee, Davinci Resolve, Visual Studio Code, Open Office, Reaper DAW
 - **Games:** Steam, Epic Games, Battle.net, EA Games
 - **Files:** Google Drive, FileZilla
