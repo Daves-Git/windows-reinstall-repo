@@ -95,9 +95,43 @@
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
     margin-top: 2rem;
   }
+
+  /* Layout for section columns */
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr; /* 1 column by default */
+  gap: 2rem;
+}
+
+/* 2 columns on medium screens */
+@media (min-width: 800px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 3 columns on wide screens */
+@media (min-width: 1200px) {
+  .grid-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Keep section styles tidy */
+section {
+  background: var(--bg-accent);
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+  
 </style>
+  
 </head>
+
+  
 <body>
+  
   <h1>💾 Dave's Reinstall Repository</h1>
 
   <p class="note">A curated collection of software, drivers, and utilities for fresh installs.</p>
