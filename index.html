@@ -78,6 +78,29 @@
   text-align: center;
   }
 
+  /* Make lists responsive grid layouts */
+ul.centered {
+  display: grid;
+  grid-template-columns: 1fr; /* 1 column by default */
+  gap: 0.5rem;
+  text-align: left;
+  justify-items: center;
+}
+
+/* 2 columns on medium screens (tablets and up) */
+@media (min-width: 700px) {
+  ul.centered {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 3 columns on large screens (desktops) */
+@media (min-width: 1100px) {
+  ul.centered {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
   footer {
     text-align: center;
     margin-top: 3rem;
@@ -95,8 +118,12 @@
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
     margin-top: 2rem;
   }
+  
 </style>
+  
 </head>
+
+  
 <body>
   <h1>💾 Dave's Reinstall Repository</h1>
 
